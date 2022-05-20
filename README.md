@@ -1,1 +1,1 @@
-# Courses
+This specialization introduces Python programmers to building websites using the Django library. Across the four courses, you will learn HTML, CSS, SQL, Django, JavaScript, jQuery, and JSON Web Services. During the course, you will build online websites using Django and those working websites are graded throughout the course. This series is excellent preparation for learning other ways to build web applications using technologies like PHP (Web Applications for Everybody), Flask or Ruby on Rails. This is a great first course in any web development curriculum.
