@@ -1,1 +1,1 @@
-# University of Michigan - DJ4E
+# Web Application Technologies and Django
